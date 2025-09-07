@@ -12,3 +12,13 @@ Amazon S3 → Armazenamento de objetos na nuvem
 📂 Estrutura do repositório
 Desafio instâncias EC2.drawio → Diagrama exportado em formato de imagem
 README.md → Documentação do projeto
+
+
+
+🛠️ Tecnologias utilizadas
+AWS EC2
+AWS EBS
+AWS S3
+AWS RDS
+Draw.io
+Git & GitHub
